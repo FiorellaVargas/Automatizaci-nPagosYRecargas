@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V57SUtJ2jtO1BzZFtzF13tAaWd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="C:/Repositorio0510/AGILE_MIMOVISTAR_PASARELLA/web-automation-framework" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29770115" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tsoft.bot.frontend.utility" />
+      <recent name="com.tsoft.bot.frontend.exceptions" />
+      <recent name="com.tsoft.bot.frontend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\web-automation-framework\src\main\resources\excel" />
+      <recent name="C:\Users\admin\Desktop\Naimar\web-automation-framework\src\main\resources\excel" />
+      <recent name="C:\Users\admin\Desktop\WEB\web-automation-framework\src\main\resources" />
+      <recent name="C:\Users\admin\Desktop\WEB\web-automation-framework\src\main\java\com\tsoft\bot\frontend\utility" />
+      <recent name="C:\Users\admin\Desktop\WEB\web-automation-framework\src\main\resources\excel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RunTest">
+    <configuration name="CallerJSON_MiMovistarPagoRecibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.frontend.utility.CallerJSON_MiMovistarPagoRecibo" />
+      <module name="web-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.frontend.utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallerJSON_MiMovistarRecarga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.frontend.utility.CallerJSON_MiMovistarRecarga" />
+      <module name="web-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.frontend.utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: MiMovistar_FlujoRecargas" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/MiMovistar_FlujoRecargas.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.mimovistar" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="web-automation-framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: MiMovistar_FlujoRecargas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Recargas en Mi Movistar (Ingresando URL manualmente en Excel)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/MiMovistar_FlujoRecargas.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.mimovistar" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="web-automation-framework" />
+      <option name="NAME_FILTER" value="^Recargas en Mi Movistar \(Ingresando URL manualmente en Excel\)$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Recargas en Mi Movistar \(Ingresando URL manualmente en Excel\)$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Recargas en Mi Movistar (Ingresando URL manualmente en Excel)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsoft.bot.frontend.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tsoft.bot.frontend.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.tsoft.bot.frontend.runner.RunTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunTest" />
+        <item itemvalue="Cucumber java.Feature: MiMovistar_FlujoRecargas" />
+        <item itemvalue="Application.CallerJSON_MiMovistarRecarga" />
+        <item itemvalue="Cucumber java.Scenario: Recargas en Mi Movistar (Ingresando URL manualmente en Excel)" />
+        <item itemvalue="Application.CallerJSON_MiMovistarPagoRecibo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="" />
+      <created>1576531102772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576531102772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="119" key="FileChooserDialogImpl" timestamp="1602108926765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602108926765" />
+    <state width="1323" height="85" key="GridCell.Tab.0.bottom" timestamp="1602108928482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="85" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602108928482" />
+    <state width="1323" height="85" key="GridCell.Tab.0.center" timestamp="1602108928481">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="85" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602108928481" />
+    <state width="1323" height="85" key="GridCell.Tab.0.left" timestamp="1602108928481">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="85" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602108928481" />
+    <state width="1323" height="85" key="GridCell.Tab.0.right" timestamp="1602108928481">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="85" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602108928481" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601918762652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601918762652" />
+    <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1596814330673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="607" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1596814330673" />
+    <state x="65" y="0" key="new project wizard" timestamp="1600404911743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600404911743" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596832147798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596832147798" />
+  </component>
+</project>
